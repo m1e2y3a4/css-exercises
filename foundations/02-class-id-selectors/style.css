@@ -1,0 +1,22 @@
+.num1{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#num2{
+    color: blue;
+    font-size: 18px;
+}
+.num3{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+#num4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.num5{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
