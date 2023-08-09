@@ -40,8 +40,14 @@ button {
   opacity: 0%;
   text-align: center;
 }
+<<<<<<< HEAD
 .popup-modal p {
   margin-bottom: 24px
+=======
+
+.popup-modal p {
+  margin-bottom: 24px;
+>>>>>>> c50cb0e (styling by flex)
 }
 
 .backdrop {
@@ -64,12 +70,19 @@ button {
 /* SOLUTION */
 
 .popup-modal {
+<<<<<<< HEAD
   transition: transform .3s ease-in-out, opacity .4s ease;
+=======
+  transition: transform 0.3s ease-in-out, opacity 0.4s ease;
+>>>>>>> c50cb0e (styling by flex)
   transform: translate(-50%, -100%);
 }
 
 .popup-modal.show {
   transform: translate(-50%, -50%);
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> c50cb0e (styling by flex)

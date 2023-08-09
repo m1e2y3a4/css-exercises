@@ -8,6 +8,7 @@ body {
   font-family: Besley, serif;
 }
 
+<<<<<<< HEAD
 
 .header {
   display: flex;
@@ -17,6 +18,12 @@ body {
   justify-content: space-between;
   padding: 8px;
   
+=======
+.header {
+  background: white;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 0 8px rgba(0,0,0,.1);
+>>>>>>> c50cb0e (styling by flex)
 }
 
 .profile-image {
@@ -34,14 +41,21 @@ body {
   font-style: italic;
 }
 
+<<<<<<< HEAD
 button {display: flex;
+=======
+button {
+>>>>>>> c50cb0e (styling by flex)
   border: none;
   border-radius: 8px;
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+<<<<<<< HEAD
   
 
+=======
+>>>>>>> c50cb0e (styling by flex)
 }
 
 a {
@@ -51,6 +65,7 @@ a {
 }
 
 ul {
+<<<<<<< HEAD
   display: flex;
   list-style-type: none;
   gap:16px;
@@ -64,3 +79,7 @@ ul {
   gap: 16px;
 }
 
+=======
+  list-style-type: none;
+}
+>>>>>>> c50cb0e (styling by flex)

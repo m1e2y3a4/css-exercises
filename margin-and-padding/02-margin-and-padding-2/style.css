@@ -1,26 +1,36 @@
 body {
   background: #eee;
   font-family: sans-serif;
+<<<<<<< HEAD
   
+=======
+>>>>>>> c50cb0e (styling by flex)
 }
 
 .card {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+<<<<<<< HEAD
   padding: 8px ;
+=======
+>>>>>>> c50cb0e (styling by flex)
 }
 
 .title {
   background: #e3f4ff;
+<<<<<<< HEAD
   font-size: 32px;
   padding: 8px;
   margin-top: 0;
   margin-bottom: 8px;
+=======
+>>>>>>> c50cb0e (styling by flex)
 }
 
 .content {
   background: #e3f4ff;
+<<<<<<< HEAD
   margin-bottom: 8px;
   padding: 8px;
 }
@@ -39,4 +49,15 @@ button {
   margin: 0 auto;
   padding: 8px 24px;
 
+=======
+}
+
+.button-container {
+  background: #e3f4ff;
+}
+
+button {
+  background: white;
+  border: 1px solid #eee;
+>>>>>>> c50cb0e (styling by flex)
 }

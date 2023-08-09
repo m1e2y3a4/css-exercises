@@ -1,10 +1,15 @@
 .header  {
+<<<<<<< HEAD
   display: flex;
   font-family: monospace;
   background: papayawhip;
   align-items: center;
   justify-content: space-between;
   padding: 8px;
+=======
+  font-family: monospace;
+  background: papayawhip;
+>>>>>>> c50cb0e (styling by flex)
 }
 
 .logo {
@@ -13,6 +18,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+<<<<<<< HEAD
   
 }
 
@@ -25,6 +31,16 @@ ul {display: flex;
 }
 
 a { 
+=======
+}
+
+ul {
+  /* this removes the dots on the list items*/
+  list-style-type: none;
+}
+
+a {
+>>>>>>> c50cb0e (styling by flex)
   font-size: 22px;
   background: white;
   padding: 8px;

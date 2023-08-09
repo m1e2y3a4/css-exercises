@@ -40,8 +40,14 @@ button {
   opacity: 0%;
   text-align: center;
 }
+<<<<<<< HEAD
 .popup-modal p {
   margin-bottom: 24px
+=======
+
+.popup-modal p {
+  margin-bottom: 24px;
+>>>>>>> c50cb0e (styling by flex)
 }
 
 .backdrop {
@@ -60,4 +66,7 @@ button {
 .backdrop.show {
   opacity: 30%;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> c50cb0e (styling by flex)
